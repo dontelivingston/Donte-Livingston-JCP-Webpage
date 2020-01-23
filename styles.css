@@ -1,0 +1,16 @@
+img {
+  width: 200px;
+}
+h1{text-align: center;
+}
+h2{text-align:center;
+}
+body{
+    background-color:gold;
+}
+h2 {
+ color: blue;   
+}
+.flex-item {
+    justify-content: space-between;
+}
